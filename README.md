@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **muhammadtahirpahore01** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Tahir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadtahirpahore01@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadTahir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadtahirpahore01@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
